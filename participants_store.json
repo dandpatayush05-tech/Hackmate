@@ -1,0 +1,102 @@
+[
+  {
+    "id": "p1",
+    "name": "Alex Rivera",
+    "email": "alex.rivera@techu.edu",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+    "skills": [
+      "React",
+      "TypeScript",
+      "Tailwind",
+      "UI/UX"
+    ],
+    "preferredDomain": "AI & Autonomous Agents",
+    "experience": "Advanced",
+    "availability": "On-Site 24h",
+    "teamPreference": "In Team",
+    "teamId": "t1",
+    "discordHandle": "alex_r#4091",
+    "bio": "Passionate frontend engineer with 3 hackathon wins. Focused on multimodal UI and real-time state visualization.",
+    "created_at": "2026-08-24T08:45:59.522+00:00"
+  },
+  {
+    "id": "p2",
+    "name": "Liam Chen",
+    "email": "liam.c@mit.edu",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "FastAPI",
+      "Docker"
+    ],
+    "preferredDomain": "AI & Autonomous Agents",
+    "experience": "Advanced",
+    "availability": "On-Site 24h",
+    "teamPreference": "In Team",
+    "teamId": "t1",
+    "discordHandle": "liamc_ai#8821",
+    "bio": "ML researcher focusing on parameter-efficient fine-tuning and agent memory loops.",
+    "created_at": "2026-08-24T08:45:59.522+00:00"
+  },
+  {
+    "id": "p3",
+    "name": "Priya Patel",
+    "email": "priya.p@stanford.edu",
+    "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=150&auto=format&fit=crop&q=80",
+    "skills": [
+      "Solidity",
+      "Rust",
+      "TypeScript",
+      "Next.js"
+    ],
+    "preferredDomain": "FinTech & Web3",
+    "experience": "Advanced",
+    "availability": "On-Site 24h",
+    "teamPreference": "In Team",
+    "teamId": "t2",
+    "discordHandle": "priya_eth#1002",
+    "bio": "Smart contract developer exploring zero-knowledge rollups and decentralized verification algorithms.",
+    "created_at": "2026-08-24T08:45:59.522+00:00"
+  },
+  {
+    "id": "p4",
+    "name": "Marcus Vance",
+    "email": "mvance@berkeley.edu",
+    "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "PostgreSQL",
+      "Kafka"
+    ],
+    "preferredDomain": "FinTech & Web3",
+    "experience": "Intermediate",
+    "availability": "Full Weekend",
+    "teamPreference": "In Team",
+    "teamId": "t2",
+    "discordHandle": "marcus_k8s#5541",
+    "bio": "Backend infrastructure builder passionate about high-throughput distributed architectures.",
+    "created_at": "2026-08-24T08:45:59.522+00:00"
+  },
+  {
+    "id": "p5",
+    "name": "Elena Rostova",
+    "email": "elena.rostova@oxford.ac.uk",
+    "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+    "skills": [
+      "Bioinformatics",
+      "Python",
+      "Computer Vision",
+      "TensorFlow"
+    ],
+    "preferredDomain": "HealthTech & BioAI",
+    "experience": "Advanced",
+    "availability": "On-Site 24h",
+    "teamPreference": "In Team",
+    "teamId": "t3",
+    "discordHandle": "elena_bio#9090",
+    "bio": "Computational biologist exploring real-time protein fold visualization and biomedical telemetry.",
+    "created_at": "2026-08-24T08:45:59.522+00:00"
+  }
+]

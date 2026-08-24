@@ -1,0 +1,72 @@
+[
+  {
+    "id": "apt-101",
+    "participant_name": "Alex Rivera",
+    "participant_email": "alex.rivera@cs.stanford.edu",
+    "team_name": "Team NeuroPulse",
+    "appointment_type": "Mentor 1-on-1 Session",
+    "mentor_or_host": "Sarah Lin (Staff ML Engineer @ Google)",
+    "scheduled_time": "2026-08-21T14:30:00.000Z",
+    "duration_minutes": 30,
+    "status": "Confirmed",
+    "location_or_link": "Mentor Lounge - Station 4 (Hall B)",
+    "notes": "Need assistance with Gemini Live API token streaming and latency bottlenecks.",
+    "created_at": "2026-08-22T17:30:34.022+00:00"
+  },
+  {
+    "id": "apt-102",
+    "participant_name": "Elena Rostova",
+    "participant_email": "elena.r@berkeley.edu",
+    "team_name": "Team BioGen",
+    "appointment_type": "Technical Debugging Clinic",
+    "mentor_or_host": "David Chen (Distributed Systems Lead)",
+    "scheduled_time": "2026-08-21T16:00:00.000Z",
+    "duration_minutes": 20,
+    "status": "Confirmed",
+    "location_or_link": "Virtual Discord Stage 2 (Audio/Video)",
+    "notes": "CUDA memory leak on PyTorch model evaluation in container.",
+    "created_at": "2026-08-22T17:30:34.022+00:00"
+  },
+  {
+    "id": "apt-103",
+    "participant_name": "Marcus Vance",
+    "participant_email": "marcus@vance.design",
+    "team_name": "Team Solaria",
+    "appointment_type": "Project Architecture Review",
+    "mentor_or_host": "Dr. Maya Patel (VP Cloud Architecture)",
+    "scheduled_time": "2026-08-21T17:15:00.000Z",
+    "duration_minutes": 45,
+    "status": "Pending",
+    "location_or_link": "Pavilion Room 204",
+    "notes": "Evaluating Firestore vs Spanner for high-throughput sensor telemetry.",
+    "created_at": "2026-08-22T17:30:34.022+00:00"
+  },
+  {
+    "id": "apt-104",
+    "participant_name": "Chloe Zhao",
+    "participant_email": "chloe@finai.io",
+    "team_name": "Team Apex",
+    "appointment_type": "Pitch & Demo Dry Run",
+    "mentor_or_host": "Akash (Lead Organizer & Judge)",
+    "scheduled_time": "2026-08-21T18:30:00.000Z",
+    "duration_minutes": 15,
+    "status": "Confirmed",
+    "location_or_link": "Demo Stage A",
+    "notes": "Rehearsing 3-minute judging walkthrough and investor demo.",
+    "created_at": "2026-08-22T17:30:34.022+00:00"
+  },
+  {
+    "id": "apt-test-1787508704943",
+    "participant_name": "Test Participant",
+    "participant_email": "tester@domain.com",
+    "team_name": null,
+    "appointment_type": "Technical Clinic",
+    "mentor_or_host": "Sarah Lin",
+    "scheduled_time": "2026-08-23T18:11:44.943Z",
+    "duration_minutes": 30,
+    "status": "Confirmed",
+    "location_or_link": "Discord Room 1",
+    "notes": null,
+    "created_at": "2026-08-23T18:11:45.254189+00:00"
+  }
+]

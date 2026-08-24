@@ -1,0 +1,6 @@
+{
+  "name": "HackMate AI",
+  "description": "Autonomous Hackathon Concierge & Event Operations Agent for participant support, team matchmaking, submission audits, schedule adaptation, and real-time operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
